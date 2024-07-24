@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction-Web-App
-Heart Disease Prediction Web App
+# Heart-Disease-Prediction-Model
+Heart Disease Prediction Model
